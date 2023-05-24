@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Akshay Mishra\\OneDrive\\Desktop\\twitter-clone-dapp\\server\\contracts\\TwitterContract.sol": {
+      "lastModificationDate": 1681144153483,
+      "contentHash": "9db80ad05f72049be1c7879afe7aec4b",
+      "sourceName": "contracts/TwitterContract.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.4"
+      ],
+      "artifacts": [
+        "TwitterContract"
+      ]
+    }
+  }
+}

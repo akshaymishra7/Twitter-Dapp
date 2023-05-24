@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "ipfs-core": "^0.18.0",
+    "ipfs-http-client": "^60.0.0"
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0"
+  }
+}
